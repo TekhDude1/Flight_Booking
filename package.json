@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "glslify": "^7.1.1",
+    "three": "^0.145.0"
+  }
+}
