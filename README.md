@@ -59,5 +59,5 @@
 - Open web browser and goto `127.0.0.1:8000` url to start using the web application.
 
 
-Project video [https://youtu.be/3tD4OsuGmoo](https://youtu.be/3tD4OsuGmoo)
+# Flight_Booking
 # Flight_Booking
